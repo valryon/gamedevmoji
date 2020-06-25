@@ -1,2 +1,3 @@
 # gamedevmoji
-Gitemoji for gamedevs
+
+[Gitmoji](https://github.com/carloscuesta/gitmoji) for gamedevs.
