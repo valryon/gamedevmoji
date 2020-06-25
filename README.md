@@ -1,0 +1,2 @@
+# gamedevmoji
+Gitemoji for gamedevs
